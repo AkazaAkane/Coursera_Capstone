@@ -9,9 +9,11 @@ Toronto is similar to New York city in many ways. They are both the largest city
 > Both the financial and tourist capitals of their countries
 > Both have a high cost of living
 > Both have a network of subways, trains and buses serving their greater areas
-> Both are known for their skyscrapers (albeit, Toronto's are limited to its Financial > District;
+> Both are known for their skyscrapers (albeit, Toronto's are limited to its  
+> Financial District;
 > New York's cover all of Manhattan)
-> Both are extremely multi-ethnic, although Toronto is more so (49% of TOs citizens > > were born
+> Both are extremely multi-ethnic, although Toronto is more so (49% of TOs
+> citizens were born
 > somewhere else, compared to 36% of NYC's)
 > Both are theatre capitals of the English-speaking world
 
